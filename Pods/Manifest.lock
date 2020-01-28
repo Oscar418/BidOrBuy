@@ -1,0 +1,35 @@
+PODS:
+  - Alamofire (4.9.1)
+  - ImageSlideshow/Core (1.8.3)
+  - ImageSlideshow/Kingfisher (1.8.3):
+    - ImageSlideshow/Core
+    - Kingfisher (> 3.0)
+  - IQKeyboardManager (6.5.5)
+  - Kingfisher (4.10.1)
+  - Swinject (2.7.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - ImageSlideshow/Kingfisher
+  - IQKeyboardManager
+  - Kingfisher (= 4.10.1)
+  - Swinject
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - ImageSlideshow
+    - IQKeyboardManager
+    - Kingfisher
+    - Swinject
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  ImageSlideshow: 4694d7d699a1549582e7cc631fb392d8f91630f3
+  IQKeyboardManager: 3a8b9e603f8b0eeaf5f096a1f2b2cfcf121992ef
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  Swinject: ddf78b8486dd9b71a667b852cad919ab4484478e
+
+PODFILE CHECKSUM: 4cac431d969d1d5b198e915d19959bec28c596a6
+
+COCOAPODS: 1.5.3
